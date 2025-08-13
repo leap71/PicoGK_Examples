@@ -8,7 +8,7 @@ This repository contains example code, which showcases various aspects of PicoGK
 
 You can download this repository's source code to get an instant PicoGK-ready environment to play around with.
 
-For more information, see the [PicoGK documentation](https://github.com/leap71/PicoGK/tree/main/Documentation)
+For more information, see the [PicoGK documentation on PicoGK.org](https://picogk.org/doc/)
 
 # Running PicoGK
 
